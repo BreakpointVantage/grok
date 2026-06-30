@@ -1,3 +1,3 @@
-module github.com/vjeantet/grok
+module github.com/BreakpointVantage/grok
 
 go 1.15
